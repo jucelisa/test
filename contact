@@ -5,8 +5,6 @@
 <body>
    <doctype html="">
    <title>&lt;Contact&gt;</title>
-
-
     <form class="" action="mailto:elianamariac@gmail.com" method="post" enctype="text/plain">
 		<label>Your Name:</label><br>
 		<input type="text" name="yourName" value="">,<br>
@@ -18,7 +16,6 @@
 		<textarea name="yourMessage" rows="10" cols="30"></textarea>
 		<input type="submit" name="">
 	</form>
-
 </doctype>
 </body>
 </html>
